@@ -1,2 +1,3 @@
-# apna-college-demn
+# apna-college-demo
 This is my first Git Repository.
+Author ~ Kartik Shandilya
